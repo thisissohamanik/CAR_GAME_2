@@ -1,3 +1,4 @@
+print("Car Game in python")
 command = ""
 is_started = False
 is_stopped = False
